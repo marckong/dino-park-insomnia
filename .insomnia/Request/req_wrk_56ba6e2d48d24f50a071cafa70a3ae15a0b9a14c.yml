@@ -1,0 +1,21 @@
+_id: req_wrk_56ba6e2d48d24f50a071cafa70a3ae15a0b9a14c
+type: Request
+parentId: wrk_56ba6e2d48d24f50a071cafa70a3ae15
+modified: 1650965171349
+created: 1650965171349
+url: "{{ base_url }}/security/raptorPaddock"
+name: Turn on/off the electricity of the raptor Paddock
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1650965171349
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
