@@ -37,7 +37,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Install inso
-        run: npm install --global insomnia-inso@3.1.0
+        run: npm install --global insomnia-inso@3.1.0-beta.4
         
       - name: Run tests
         run: inso run test "uts_bf263ed2a1b44b40b3f2e133f9628ac3" -e "env_a845781bd2294d349a80270cca3d9987"
