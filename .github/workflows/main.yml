@@ -40,4 +40,4 @@ jobs:
         run: npm install --global insomnia-inso
         
       - name: Run tests
-        run: inso run test "uts_bf263ed2a1b44b40b3f2e133f9628ac3"
+        run: inso run test "uts_bf263ed2a1b44b40b3f2e133f9628ac3" -e "env_a845781bd2294d349a80270cca3d9987"
