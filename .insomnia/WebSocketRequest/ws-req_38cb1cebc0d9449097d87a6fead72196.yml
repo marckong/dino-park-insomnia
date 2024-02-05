@@ -9,6 +9,7 @@ metaSortKey: -1663333425288
 headers: []
 authentication: {}
 parameters: []
+pathParameters: []
 settingEncodeUrl: true
 settingStoreCookies: true
 settingSendCookies: true
